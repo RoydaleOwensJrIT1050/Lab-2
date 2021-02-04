@@ -1,0 +1,55 @@
+body
+{
+  background: linear-gradient(white,grey);
+  border: black double;
+}
+nav
+{
+    background-color: lightblue;
+   
+    text-decoration-color: teal;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+   
+}
+li
+{
+    display: inline;
+}
+.left
+{
+    text-align: left;
+    letter-spacing: 3px;
+}
+h1
+{
+    text-align: left;
+    letter-spacing: 3px;
+    
+
+}
+.right
+{
+    text-align: right;
+    letter-spacing: 3px;
+}
+#left
+{
+    position: relative;
+    top: auto;
+}
+#right
+{
+   position: absolute;
+   top: 8px;
+   right: 16px;
+}
+p
+{
+    text-orientation: sideways;
+}
