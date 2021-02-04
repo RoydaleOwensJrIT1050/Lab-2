@@ -1,0 +1,30 @@
+body
+{
+  background-color: silver;
+  border: black double;
+}
+nav
+{
+    background-color: white;
+   
+    text-decoration-color: teal;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+   
+}
+li
+{
+    display: inline;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
