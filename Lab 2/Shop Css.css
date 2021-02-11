@@ -1,0 +1,36 @@
+body
+{
+  background: linear-gradient(white,grey);
+  border: black double;
+}
+nav
+{
+    background-color: lightblue;
+   
+    text-decoration-color: teal;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+   
+}
+li
+{
+    display: inline;
+}
+
+h1
+{
+    text-align: left;
+    letter-spacing: 3px;
+    
+
+}
+
+p
+{
+    text-orientation: sideways;
+}
